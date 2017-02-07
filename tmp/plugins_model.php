@@ -1,0 +1,1 @@
+a:2:{s:18:"aws_external_class";s:66:"/data/wwwroot/www.myuahe.com/plugins/aws_external/aws_external.php";s:26:"aws_offical_external_class";s:82:"/data/wwwroot/www.myuahe.com/plugins/aws_offical_external/aws_offical_external.php";}
